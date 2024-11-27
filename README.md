@@ -58,7 +58,7 @@ O projeto é dividido nos seguintes arquivos e diretórios:
 
 ## Licença
 
-  Este projeto está sob a licença MIT.
+  Este projeto está sob a licença [MIT](https://mit-license.org/).
 
 ## Desenvolvido por:
   Ana Ruth Bezerra
