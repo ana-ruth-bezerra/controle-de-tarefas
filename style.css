@@ -1,0 +1,26 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.table {
+    margin-top: 30px;
+    border: 1px solid grey;
+}
+
+.table th, .table td {
+    padding: 12px;
+}
+
+.table th {
+    background-color: rgb(30, 168, 253);
+    color: white;
+}
+
+.btn {
+    margin-right: 5px;
+}
