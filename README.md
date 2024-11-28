@@ -44,7 +44,7 @@ O projeto é dividido nos seguintes arquivos e diretórios:
    git clone https://github.com/ana-ruth-bezerra/controle-de-tarefas.git
    cd controle-de-tarefas
 
-  Ou faça o download deste repositório; 
+  1.1 Ou faça o download deste repositório; 
    
 2. Configure o banco de dados:
   Crie um banco de dados chamado controle_tarefas.
