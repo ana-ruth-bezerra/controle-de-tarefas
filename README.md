@@ -39,10 +39,13 @@ O projeto é dividido nos seguintes arquivos e diretórios:
 
 ## Configuração do Ambiente
 
-1. Clone este repositório:
+1. Clone este repositório e execute o comando a seguir no terminal ou na linha de comando:
    ```bash
    git clone https://github.com/ana-ruth-bezerra/controle-de-tarefas.git
    cd controle-de-tarefas
+
+  Ou faça o download deste repositório; 
+   
 2. Configure o banco de dados:
   Crie um banco de dados chamado controle_tarefas.
   Importe o arquivo **`scripts.sql`**
